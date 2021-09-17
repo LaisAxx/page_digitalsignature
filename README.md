@@ -12,7 +12,7 @@ Como executar projeto
 
 ### `npm start`
 
-![alt text](src/assets/digitalsignaturepage.png)
+![alt text](src/assets/digitalsignature.png)
 
 
 
