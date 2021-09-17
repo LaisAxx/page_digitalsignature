@@ -1,12 +1,18 @@
-# Getting Started with Create React App
+# Pagina para digital signature
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+instalando dependencias
 
-### `yarn start`
+### `npm install`
+
+Como executar projeto
+
+### `npm start`
+
+![alt text](src/assets/digitalsignaturepage.png)
 
 
 
