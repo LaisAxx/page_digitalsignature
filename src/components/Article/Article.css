@@ -1,0 +1,35 @@
+.content-article {
+  margin-top: 10%;
+  padding: 20px;
+  width: 800px;
+  
+}
+
+#title {
+  width: 100%;
+  font-family: Merriweather Sans;
+  font-style: normal;
+  font-weight: bold;
+  /* font-size: 3.5em;  */
+  font-size: 4vw;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+hr {
+  max-width: 20%;
+  border: 2px solid #ff9900;
+}
+
+p {
+
+
+  max-width: 100%;
+  padding: 20px;
+  text-align: center;
+
+  color: white;
+  font-size: 1.2em;
+
+  margin-top: 2%;
+  /* line-height: 1.3; */
+}

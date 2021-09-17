@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "Merriweather Sans";
+  src: url("../src/assets/fonts/MerriweatherSans-Bold.ttf");
+  src: url("../src/assets/fonts/MerriweatherSans-Regular.ttf");
+  src: url("../src/assets/fonts/MerriweatherSans-SemiBold.ttf");
+  src: url("../src/assets/fonts/MerriweatherSans-ExtraBold.ttf");
+
+}
+html,
+body {
+  font-family: Merriweather Sans;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  background-color: #0077b6;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
