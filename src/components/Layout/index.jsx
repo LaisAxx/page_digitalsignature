@@ -1,6 +1,6 @@
 import React from 'react';
 import './Layout.css'
-import Clock from '../clock'
+import Clock from '../clock/index'
 import Article from '../Article'
 function Layout({ children }) {
 
